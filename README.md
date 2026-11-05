@@ -39,6 +39,7 @@ My goal is to design, deploy, secure, and manage reliable cloud infrastructure w
 - Azure Portal
 - Linux
 - Windows
+- Azure CLI
 
 ### 🏗️ Infrastructure as Code
 - Azure Bicep
