@@ -1,54 +1,95 @@
-# Hi, I'm JojoTech 👋
+# 👋 Hi, I'm JojoTech
 
-### Aspiring Azure Cloud Engineer | Cloud Infrastructure | Networking | DevOps
+### ☁️ Aspiring Azure Cloud Engineer | Cloud Infrastructure | Networking | DevOps
 
-I'm building practical skills in Microsoft Azure, cloud infrastructure, networking, and DevOps through hands-on projects and real-world technical scenarios.
+Welcome to my GitHub profile!
 
-My focus is on designing, deploying, securing, and troubleshooting cloud environments while developing practical solutions that reflect real enterprise infrastructure requirements.
+I'm passionate about Cloud Computing, Infrastructure Engineering, Networking, and DevOps. I'm developing practical technical skills through hands-on Microsoft Azure projects, infrastructure deployment, automation, and troubleshooting.
 
-### ☁️ Technical Skills & Technologies
+My goal is to design, deploy, secure, and manage reliable cloud infrastructure while building solutions that reflect real-world enterprise environments.
 
-- **Cloud Platform:** Microsoft Azure
-- **Cloud Networking:** Virtual Networks (VNet), Subnets, VNet Peering, Network Security Groups (NSG), User Defined Routes (UDR)
-- **Network Security:** Azure Firewall, Network Virtual Appliances (NVA), Network Routing
-- **Compute:** Azure Virtual Machines, Virtual Machine Scale Sets
-- **Application Hosting:** Azure App Service
-- **DevOps & CI/CD:** GitHub Actions, Azure DevOps, YAML Pipelines
-- **Infrastructure as Code:** Azure Bicep
-- **Operating Systems:** Linux, Windows Server
-- **Version Control:** Git & GitHub
+---
 
-### 🚀 Featured Projects
+## 🛠️ Technical Skills & Technologies
 
-| Project | Description | Technologies |
-|---|---|---|
-| Azure Hub-and-Spoke Network | Network segmentation, VNet peering and centralized routing | Azure VNet, UDR |
-| Azure NVA Routing | Traffic forwarding and network inspection | Linux, NVA, UDR |
-| Azure App Service CI/CD | Automated web application deployment | App Service, GitHub Actions |
-| Azure Load Balancer | High availability and traffic distribution | Azure Load Balancer |
+### ☁️ Cloud Platform
+- Microsoft Azure
+- Azure Resource Management
+- Azure Virtual Machines
+- Azure App Service
 
-*Project links and implementation documentation will be added as projects are completed.*
+### 🌐 Cloud Networking & Security
+- Azure Virtual Networks (VNet)
+- Subnets and VNet Peering
+- Network Security Groups (NSG)
+- User Defined Routes (UDR)
+- Azure Firewall
+- Network Virtual Appliances (NVA)
+- Azure Load Balancer
 
-### 📚 Certifications & Learning
+### ⚙️ DevOps & CI/CD
+- GitHub Actions
+- Azure DevOps
+- YAML Pipelines
+- Continuous Integration & Continuous Deployment
+
+### 💻 Tools & Development Environment
+- Visual Studio Code (VS Code)
+- Git & GitHub
+- Azure Portal
+- Linux
+- Windows
+
+### 🏗️ Infrastructure as Code
+- Azure Bicep
+
+---
+
+## 🚀 Featured Cloud Projects
+
+I'm building and documenting practical Azure projects to demonstrate my cloud infrastructure and automation skills.
+
+| Project | Description |
+|---|---|
+| Azure Hub-and-Spoke Networking | Network architecture, VNet peering and centralized routing |
+| Azure NVA Routing | Traffic forwarding and network inspection |
+| Azure App Service CI/CD | Automated web application deployment |
+| Azure Load Balancer | High availability and traffic distribution |
+| Azure Firewall | Network security and traffic filtering |
+
+*Project documentation and repository links will be added as each project is completed.*
+
+---
+
+## 📚 Certifications & Continuous Learning
 
 - Preparing for Microsoft Azure Administrator (AZ-104)
-- Building practical Azure infrastructure projects
-- Developing DevOps and CI/CD skills
+- Practising Azure infrastructure deployment
+- Developing cloud networking and security skills
+- Learning CI/CD and DevOps automation
+- Exploring Infrastructure as Code with Bicep
 
-### 🎯 Current Focus
+---
 
-- Designing secure Azure network architectures
-- Implementing cloud infrastructure and network security
-- Automating application deployment with CI/CD pipelines
-- Learning Infrastructure as Code with Bicep
-- Troubleshooting real-world cloud infrastructure challenges
+## 🎯 Current Learning Focus
 
-### 🤝 Connect With Me
+- Designing secure Azure cloud architectures
+- Implementing Hub-and-Spoke networking
+- Configuring Azure Firewall and routing
+- Automating deployments using CI/CD pipelines
+- Building and managing cloud infrastructure
+- Troubleshooting real-world Azure environments
 
-I'm interested in connecting with cloud engineers, DevOps professionals, and technology enthusiasts.
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with Cloud Engineers, DevOps professionals, and technology enthusiasts.
 
 **GitHub:** [jojotech007](https://github.com/jojotech007)
 
 ---
 
-*Learning, building, documenting, and growing in Cloud Engineering.*
+### 💡 My Philosophy
+
+*Learn continuously. Build practically. Document everything. Improve consistently.*
