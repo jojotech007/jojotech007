@@ -91,6 +91,3 @@ I'm always interested in connecting with Cloud Engineers, DevOps professionals, 
 
 ---
 
-### 💡 My Philosophy
-
-*Learn continuously. Build practically. Document everything. Improve consistently.*
