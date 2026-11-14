@@ -64,7 +64,7 @@ I'm building and documenting practical Azure projects to demonstrate my cloud in
 
 ## 📚 Certifications & Continuous Learning
 
-- Preparing for Microsoft Azure Administrator (AZ-104)
+- Learning Microsoft Azure Administrator (AZ-104)
 - Practising Azure infrastructure deployment
 - Developing cloud networking and security skills
 - Learning CI/CD and DevOps automation
