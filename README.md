@@ -2,6 +2,20 @@
 
 ### ☁️ Aspiring Azure Cloud Engineer | Cloud Infrastructure | Networking | DevOps
 
+
+<p align="center">
+  <a href="linkedin.com/in/jide-odunmuwa-12a0972a0">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/jojotech007">
+    <img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-555555?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/jojotech007?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW-REPO-111111?style=for-the-badge" />
+  </a>
+</p>
+
+
 Welcome to my GitHub profile!
 
 I'm passionate about Cloud Computing, Infrastructure Engineering, Networking, and DevOps. I'm developing practical technical skills through hands-on Microsoft Azure projects, infrastructure deployment, automation, and troubleshooting.
