@@ -4,7 +4,8 @@
 
 
 <p align="center">
-  <a href="linkedin.com/in/jide-odunmuwa-12a0972a0">
+  
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/jojotech007">
