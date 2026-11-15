@@ -5,7 +5,7 @@
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/jide-odunmuwa-12a0972a0/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/jojotech007">
@@ -14,6 +14,7 @@
   <a href="https://github.com/jojotech007?tab=repositories">
     <img src="https://img.shields.io/badge/VIEW-REPO-111111?style=for-the-badge" />
   </a>
+  
 </p>
 
 
